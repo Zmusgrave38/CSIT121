@@ -1,0 +1,15 @@
+ body {background-color: whitesmoke;
+font-family: Arial, Helvetica, sans-serif;
+color: blue;
+background-image:url(Instantpot.jpg) ;
+box-shadow: inset;
+}
+h1 {font-size: x-large;
+color: black;
+text-transform: capitalize;
+}
+h2 {font-size:smaller;
+    font-style: italic;
+}
+title {font-size: xx-large;}
+ul {margin-left: auto;}
